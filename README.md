@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on **React Js, Vite Js**
 
-- 🌱 I’m currently learning **Remix Js, Next Js**
+- 🌱 I’m currently learning **Remix Js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 🤝 I collaborate with [@nabilcambiaso](https://github.com/nabilcambiaso)
 
-- 👨‍💻 All of my projects are available at [https://gouzals.netlify.app/](https://gouzals.netlify.app/)
-
-- 💬 Ask me about **react, node, vite, rollup**
+- 💬 Ask me about **react, vite, rollup**
 
 - 📫 How to reach me **gouzal.said3@gmail.com, +212707348215**
 
