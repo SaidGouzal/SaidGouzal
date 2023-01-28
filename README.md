@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/gouzalsaid" target="blank"><img src="https://img.shields.io/twitter/follow/gouzalsaid?logo=twitter&style=for-the-badge" alt="gouzalsaid" /></a> </p>
 
-- 🔭 I’m currently working on **React Js, Vite Js**
+- 🔭 I’m currently working on **React Js, Vite Js, Three Js**
 
-- 🌱 I’m currently learning **Remix Js**
+- 🌱 I’m currently learning **Three Js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 🤝 I collaborate with [@nabilcambiaso](https://github.com/nabilcambiaso)
 
-- 💬 Ask me about **react, vite, rollup**
+- 💬 Ask me about **React, Vite, Rollup**
 
 - 📫 How to reach me **gouzal.said3@gmail.com, +212707348215**
 
